@@ -6,22 +6,22 @@
 body {
   background: #333;
   color: white;
-  max-width: 400px;
+  max-width: 1000px;
   padding: 1rem;
   margin: 0 auto;
 }
 
 .noTodos {
-  font-size: 13px;
+  font-size: 19px;
 }
 
 .newItem {
-  font-size: 15px;
+  font-size: 26px;
   margin-bottom: 10px;
 }
 
 .add {
-  font-size: 11px;
+  font-size: 19px;
 }
 
 .new-item-form {
@@ -53,7 +53,7 @@ body {
 }
 
 .btn.btn-danger {
-  font-size: 8px;
+  font-size: 13px;
   background: hsl(0, 100%, 40%, 0.1);
   border: 1px solid hsl(0, 100%, 40%);
   color: hsl(0, 100%, 40%);
@@ -73,6 +73,8 @@ body {
   border-radius: 0.25em;
   padding: 0.25em 0.5em;
   color: white;
+  height: 50px;
+  font-size: 18px;
 }
 
 .new-item-form input:focus {
@@ -80,7 +82,7 @@ body {
 }
 
 .header {
-  font-size: 1.5rem;
+  font-size: 34px;
   margin-top: 2rem;
   margin-bottom: 0.5rem;
 }
@@ -102,6 +104,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 0.3rem;
+  font-size: 20px;
 }
 
 .list li {
