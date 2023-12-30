@@ -93,7 +93,7 @@ body {
 .header-container {
   background-color: #333;
   padding: 25px;
-  padding-top: 35px;
+  padding-top: 45px;
   text-align: center;
   position: fixed;
   width: 100%;
@@ -104,8 +104,8 @@ body {
 }
 
 .header-container img {
-  width: 400px;
-  height: auto;
+  max-width: 60%;
+  max-height: 50px;
   display: block;
   margin: 0 auto;
 }
