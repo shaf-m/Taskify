@@ -1,10 +1,13 @@
-# Todo List App
+<p align="center">
+  <img src="https://github.com/shaf-m/Taskify/blob/main/Taskify-logos_white.png" width="600px/>
+</p>
 
-![App Demo](https://github.com/shaf-m/TodoApp/blob/main/Mockups/mockups-combined.png)
+
+![App Demo](https://github.com/shaf-m/Taskify/blob/main/Mockups/MockupsCombinedLogo.png)
 
 ## Overview
 
-👋 Welcome to my Todo List app! This simple and intuitive application helps you manage your tasks efficiently. 
+👋 Welcome to my Taskify! This simple and intuitive application helps you manage your tasks efficiently. 
 
 Whether you're a professional, student, or anyone looking to stay organized, this app has got you covered.
 
