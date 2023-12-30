@@ -2,8 +2,9 @@
   <img src="https://github.com/shaf-m/Taskify/blob/main/Taskify-logos_white.png" width="600px/>
 </p>
 
-
-![App Demo](https://github.com/shaf-m/Taskify/blob/main/Mockups/MockupsCombinedLogo.png)
+<p align="center">
+  <img src="https://github.com/shaf-m/Taskify/blob/main/Mockups/MockupsCombinedLogo.png"/>
+</p>
 
 ## Overview
 
