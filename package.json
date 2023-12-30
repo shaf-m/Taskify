@@ -1,6 +1,7 @@
 {
   "name": "react-basics",
-  "private": true,
+  "homepage": "https://shaf-m.github.io/Taskify/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
