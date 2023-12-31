@@ -27,6 +27,6 @@ Whether you're a professional, student, or anyone looking to stay organized, thi
 
 ## Demo
 
-Give it a try! Access the live demo [here](https://shaf-m.github.io/TodoApp/) and start managing your tasks with ease.
+Give it a try! Access the live demo [here](https://shaf-m.github.io/Taskify/) and start managing your tasks with ease.
 
 Thanks for checking it out!
