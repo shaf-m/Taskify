@@ -8,7 +8,7 @@
 
 ## Overview
 
-👋 Welcome to my Taskify! This simple and intuitive application helps you manage your tasks efficiently. 
+👋 Welcome to Taskify! This simple and intuitive application helps you manage your tasks efficiently. 
 
 Whether you're a professional, student, or anyone looking to stay organized, this app has got you covered.
 
